@@ -1,7 +1,7 @@
 # is_image_document
 This little repo is a lightweight python script to check wether an image probably contains a document or not based on opencv.
 
-> Please note i built a Neural Network with +99% accuracy: [is_image_document_ai](https://github.com/Logophoman/is_image_document_ai) that you might consider of the 89% accurracy with plain openCV... 
+> Please note i built a Neural Network with +99% accuracy: [is_image_document_ai](https://github.com/Logophoman/is_image_document_ai) that you might consider instead of the 89% accurracy with plain openCV in this repo... 
 
 ## accuracy: 
 
